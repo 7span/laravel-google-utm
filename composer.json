@@ -1,0 +1,13 @@
+{
+    "name": "Sevenspan/laravel-google-utm",
+    "description": "Adding Google UTM parameters to URL.",
+    "license": "The MIT License (MIT)",
+    "authors": [
+        {
+            "name": "hemratna",
+            "email": "hemratna.bhimani@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
